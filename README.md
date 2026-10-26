@@ -2,7 +2,7 @@
 
 Read-only analyzer for Python repositories: AST parsing, dependency graph, cyclomatic complexity, code smells, Git-history mining (churn, contributors, co-change) and ranked, explainable hotspots. It never executes the analyzed code.
 
-**Live demo:** `https://<your-username>.github.io/<repo-name>/` (demo data = analysis of [psf/requests](https://github.com/psf/requests))
+**Live demo:** `https://thuluxx.github.io/cbi` (demo data = analysis of [psf/requests](https://github.com/psf/requests))
 
 ## Run it on your own repo
 ```bash
